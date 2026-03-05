@@ -65,7 +65,8 @@ let project_descriptions = {
     "socket": `Established a socket connection between a client and server to facilitate file transfer between the two. <br><br>Made failsafes for several cases such as when read/write permissions are not available.`,
     "website": `Code for this website! <br><br>Coded based on a colorlib template and a combination of multiple codepens and hosted using GitHub pages.`,
     "tcav": `Built on TCAV, an ML paper that aims to find a link between recognizing an object and how important a certain feature is to that objects detection. <br><br>Implemented baseline TCAV model and attempted to extend this idea in multiple manners including detecting medical conditions such as arthritis using the presence of bone spurs.`,
-    "raytracing": `Implemented a ray tracing renderer capable of simulating realistic lighting and material interactions in 3D scenes. <br><br>Rendered diffuse, reflective and transparent objects and optimized rendering using bounding volume hierarchies (BVH).`
+    "raytracing": `Implemented a ray tracing renderer capable of simulating realistic lighting and material interactions in 3D scenes. <br><br>Rendered diffuse, reflective and transparent objects and optimized rendering using bounding volume hierarchies (BVH).`,
+    "workout": `Data merger for workout app data (Lyfta, Strong, etc) and Garmin heart-rate activity files. <br><br>Provides set-level insights like HR curves, averages, peaks, and a complete workout timeline.`
 }
 
 
